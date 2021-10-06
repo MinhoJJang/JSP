@@ -1,3 +1,3 @@
 # JSP_1006
 
-jsp 처음으로 써본날!! 
+jsp first learn
